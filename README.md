@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi there, I'm José Luis
 
-<!--
-**JoseLuiSS0/JoseLuiSS0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Engineering / Data Science Student**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a student focused on learning through **hands-on projects**.  
+I enjoy applying **programming and mathematics** to real-world problems, especially in **data analysis, numerical modeling, and automation**.
+
+Currently, I am strengthening my skills in:
+- Python for data analysis and modeling  
+- Numerical methods and applied mathematics  
+- Data science workflows  
+- Version control with Git and GitHub  
+
+---
+
+## 🧠 Interests
+- 📊 Data Science  
+- 🤖 Machine Learning  
+- 📐 Mathematical Modeling  
+- 🔬 Scientific Computing  
+- ⚙️ Automation & no-code tools (n8n)
+
+---
+
+⭐ Always learning, improving, and building projects.
