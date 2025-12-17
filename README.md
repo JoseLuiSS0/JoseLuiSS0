@@ -20,8 +20,7 @@ Currently, I am strengthening my skills in:
 - 📊 Data Science  
 - 🤖 Machine Learning  
 - 📐 Mathematical Modeling  
-- 🔬 Scientific Computing  
-- ⚙️ Automation & no-code tools (n8n)
+- 💻 Web designing
 
 ---
 
