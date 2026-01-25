@@ -24,4 +24,4 @@ Currently, I am strengthening my skills in:
 
 ---
 
-⭐ Always learning, improving, and growing as a better person.
+⭐ Always learning.
