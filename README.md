@@ -12,7 +12,7 @@ Currently, I am strengthening my skills in:
 - Python for data analysis and modeling  
 - Numerical methods and applied mathematics  
 - Data science workflows  
-- Version control with Git and GitHub  
+- SQL for data querying and analysis
 
 ---
 
@@ -20,7 +20,6 @@ Currently, I am strengthening my skills in:
 - 📊 Data Science  
 - 🤖 Machine Learning  
 - 📐 Mathematical Modeling  
-- 💻 Web designing
 
 ---
 
