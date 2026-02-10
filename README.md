@@ -22,5 +22,3 @@ Currently, I am strengthening my skills in:
 - 📐 Mathematical Modeling  
 
 ---
-
-⭐ Always learning.
