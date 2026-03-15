@@ -13,6 +13,7 @@ Currently, I am strengthening my skills in:
 - Numerical methods and applied mathematics  
 - Data science workflows  
 - SQL for data querying and analysis
+- Machine Learning Models
 
 ---
 
