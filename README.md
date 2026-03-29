@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I am a student focused on learning through **hands-on projects**.  
-I enjoy applying **programming and mathematics** to real-world problems, especially in **data analysis, numerical modeling, and automation**.
+I enjoy applying **programming and mathematics** to real-world problems, especially in **data analysis, machine learning, and automation**.
 
 Currently, I am strengthening my skills in:
 - Python for data analysis and modeling  
@@ -14,6 +14,7 @@ Currently, I am strengthening my skills in:
 - Data science workflows  
 - SQL for data querying and analysis
 - Machine Learning Models
+- Power BI
 
 ---
 
